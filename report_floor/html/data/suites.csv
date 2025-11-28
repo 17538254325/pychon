@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Jul 09 15:15:44 CST 2025","Wed Jul 09 15:16:30 CST 2025","45419","case_floor","appium_yemian","","","","test_04_shoucang",""
-"broken","Wed Jul 09 15:16:30 CST 2025","Wed Jul 09 15:17:00 CST 2025","30214","case_floor","appium_yemian","","","","test_05_shaixuan",""
-"passed","Wed Jul 09 15:17:00 CST 2025","Wed Jul 09 15:17:47 CST 2025","46615","case_floor","appium_yemian","","","","test_06_shanchu",""
-"broken","Wed Jul 09 15:13:35 CST 2025","Wed Jul 09 15:14:11 CST 2025","36707","case_floor","appium_yemian","","","","test_01_ote",""
-"broken","Wed Jul 09 15:14:11 CST 2025","Wed Jul 09 15:14:51 CST 2025","39664","case_floor","appium_yemian","","","","test_02_search",""
-"broken","Wed Jul 09 15:14:51 CST 2025","Wed Jul 09 15:15:44 CST 2025","53295","case_floor","appium_yemian","","","","test_03_saaarch",""
